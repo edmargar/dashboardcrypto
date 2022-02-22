@@ -1,0 +1,8 @@
+venv/
+build/
+viewdashboard/node_modules/
+viewdashboard/*.json
+db.sqlite3
+.env
+cmcteste.py
+manage.py
